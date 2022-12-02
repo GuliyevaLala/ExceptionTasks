@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.AssemblyInfo.cs
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\bin\Debug\netcoreapp3.1\FindFactorialException.exe
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\bin\Debug\netcoreapp3.1\FindFactorialException.deps.json
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\bin\Debug\netcoreapp3.1\FindFactorialException.runtimeconfig.json
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\bin\Debug\netcoreapp3.1\FindFactorialException.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\bin\Debug\netcoreapp3.1\FindFactorialException.dll
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\bin\Debug\netcoreapp3.1\FindFactorialException.pdb
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.dll
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.pdb
+C:\Users\Admin\Desktop\n\CheckFactorial\FindFactorialException\obj\Debug\netcoreapp3.1\FindFactorialException.genruntimeconfig.cache
