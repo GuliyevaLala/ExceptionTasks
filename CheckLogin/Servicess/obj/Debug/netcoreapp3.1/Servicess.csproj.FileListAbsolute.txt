@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Servicess\bin\Debug\netcoreapp3.1\Servicess.deps.json
+C:\Users\Admin\source\repos\Servicess\bin\Debug\netcoreapp3.1\Servicess.dll
+C:\Users\Admin\source\repos\Servicess\bin\Debug\netcoreapp3.1\Servicess.pdb
+C:\Users\Admin\source\repos\Servicess\bin\Debug\netcoreapp3.1\Domaiin.dll
+C:\Users\Admin\source\repos\Servicess\bin\Debug\netcoreapp3.1\Domaiin.pdb
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.csproj.CopyComplete
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.dll
+C:\Users\Admin\source\repos\Servicess\obj\Debug\netcoreapp3.1\Servicess.pdb

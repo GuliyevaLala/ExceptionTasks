@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Domaiin\bin\Debug\netcoreapp3.1\Domaiin.deps.json
+C:\Users\Admin\source\repos\Domaiin\bin\Debug\netcoreapp3.1\Domaiin.dll
+C:\Users\Admin\source\repos\Domaiin\bin\Debug\netcoreapp3.1\Domaiin.pdb
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.dll
+C:\Users\Admin\source\repos\Domaiin\obj\Debug\netcoreapp3.1\Domaiin.pdb

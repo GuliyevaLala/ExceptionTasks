@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExceptionLoginTask/1.0.0": {
+        "dependencies": {
+          "Servicess": "1.0.0"
+        },
+        "runtime": {
+          "ExceptionLoginTask.dll": {}
+        }
+      },
+      "Domaiin/1.0.0": {
+        "runtime": {
+          "Domaiin.dll": {}
+        }
+      },
+      "Servicess/1.0.0": {
+        "dependencies": {
+          "Domaiin": "1.0.0"
+        },
+        "runtime": {
+          "Servicess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionLoginTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domaiin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

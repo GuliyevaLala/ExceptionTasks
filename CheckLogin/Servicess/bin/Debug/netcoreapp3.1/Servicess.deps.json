@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Servicess/1.0.0": {
+        "dependencies": {
+          "Domaiin": "1.0.0"
+        },
+        "runtime": {
+          "Servicess.dll": {}
+        }
+      },
+      "Domaiin/1.0.0": {
+        "runtime": {
+          "Domaiin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servicess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domaiin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
